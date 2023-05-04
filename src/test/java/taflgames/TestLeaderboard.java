@@ -21,7 +21,7 @@ import taflgames.common.code.MatchResult;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
-//CHECKSTYLE: MagicNumber OFF
+//
 /*Magic numbers checks disabled in order to allow quicker writing of the tests; the
 * numbers used in the creation of Positions and results are not intended to be 
 * constants, but only results to verify computations by need.

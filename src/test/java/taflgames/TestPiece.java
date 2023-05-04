@@ -1,6 +1,6 @@
 package taflgames;
 import static org.junit.jupiter.api.Assertions.assertTrue;
-//CHECKSTYLE: MagicNumber OFF
+//
 /*Magic numbers checks disabled in order to allow quicker writing of the tests; the
  * numbers used in the creation of Positions and Vectors are not intended to be 
  * constants, but only results to verify computations by need.

@@ -76,7 +76,7 @@ class TestMatch {
         );
     }
 
-    // CHECKSTYLE: MagicNumber OFF
+    // 
     // MagicNumber rule disabled because the numbers in the following code represent coordinates
 
     /**

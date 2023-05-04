@@ -78,7 +78,7 @@ class TestBoardSetup {
         final Map<Position, Cell> cells = this.cellsCollBuilder.build();
         final Map<Player, Map<Position, Piece>> pieces = this.piecesCollBuilder.build();
 
-        // CHECKSTYLE: MagicNumber OFF
+        // 
         // MagicNumber rule disabled because the numbers in the following code represent coordinates
 
         // Check king and throne correct placement
@@ -183,7 +183,7 @@ class TestBoardSetup {
         final Map<Position, Cell> cells = this.cellsCollBuilder.build();
         final Map<Player, Map<Position, Piece>> pieces = this.piecesCollBuilder.build();
 
-        // CHECKSTYLE: MagicNumber OFF
+        // 
         // MagicNumber rule disabled because the numbers in the following code represent coordinates
 
         // Check king and throne correct placement
