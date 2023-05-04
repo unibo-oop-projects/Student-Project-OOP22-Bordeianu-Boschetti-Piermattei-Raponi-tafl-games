@@ -674,7 +674,6 @@ class TestMatch {
     }
 
 
-    @SuppressWarnings("CPD-START")
     /*
      * The CPD warnings about the two following test methods (testAttackerWin() and testDefenderWin())
      * will be suppressed, since the cause of the warnings is a sequence of similar moves in the two tests
@@ -904,8 +903,6 @@ class TestMatch {
         );
     }
 
-    @SuppressWarnings("CPD-END")
-
     /**
      * Test that the match ends and that the correct result is returned when the conditions for
      * the conditions for draw are verified.
@@ -1049,5 +1046,4 @@ class TestMatch {
         );
     }
 
-    // CHECKSTYLE: MagicNumber ON
 }
