@@ -31,7 +31,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
  */
 class TestLeaderboard {
 
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */

@@ -44,7 +44,7 @@ import taflgames.common.Player;
  */
 class TestBoardSetup {
 
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */

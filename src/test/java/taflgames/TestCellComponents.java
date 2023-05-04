@@ -38,7 +38,7 @@ import taflgames.model.pieces.api.Piece;
  * behaves naturally after calls to the Match object.
  */
 class TestCellComponents {
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */

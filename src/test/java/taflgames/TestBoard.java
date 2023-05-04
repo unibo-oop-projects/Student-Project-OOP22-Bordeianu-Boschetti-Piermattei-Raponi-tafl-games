@@ -30,7 +30,7 @@ import taflgames.model.cell.code.Throne;
  * JUnit tests for {@link Board}.
  */
 class TestBoard {
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */

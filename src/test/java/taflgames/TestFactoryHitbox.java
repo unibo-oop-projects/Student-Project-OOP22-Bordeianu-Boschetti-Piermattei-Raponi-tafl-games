@@ -19,7 +19,7 @@ import taflgames.common.code.Position;
  * testing factoryHitbox.
  */
 class TestFactoryHitbox {
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */

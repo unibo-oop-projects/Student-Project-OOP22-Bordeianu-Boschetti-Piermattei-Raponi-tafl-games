@@ -31,7 +31,7 @@ import java.util.Map;
  * JUnit tests for {@link Cell}.
  */
 class TestCell {
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */

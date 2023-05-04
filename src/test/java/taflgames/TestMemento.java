@@ -40,7 +40,7 @@ import org.junit.jupiter.api.BeforeEach;
  * to save normal and variant matches status.
  */
 class TestMemento {
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */

@@ -26,7 +26,7 @@ import taflgames.model.pieces.code.Swapper;
  * testing piece.
  */
 class TestPiece {
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */

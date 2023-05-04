@@ -21,7 +21,7 @@ import taflgames.common.code.VectorImpl;
  * testing factoryMoveSet.
  */
 class TestFactoryMoveSet {
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */

@@ -35,7 +35,7 @@ import taflgames.model.board.api.Eaten;
  * JUnit tests for {@link Eaten}.
  */
 class TestEaten {
-    // CPD-OFF
+    // 
     /* CPD suppressed because tests are naturally repetitive and their purpose
      * should be clear enough.
      */
